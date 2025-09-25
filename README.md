@@ -7,6 +7,13 @@ Project for Diploma in Web Development
 - Dynamic dashboard with real-time data display
 - Modular pages: `dashboard.php`, `order.php`, `carts.php`
 
+## 📦 Dependencies
+
+•	PHP 7+
+•	MySQL or MariaDB
+•	Apache/Nginx
+•	Optional: Bootstrap or Tailwind CSS for styling
+
 
 ## 🧱 File Structure
 
