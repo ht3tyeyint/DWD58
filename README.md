@@ -10,7 +10,14 @@ Project for Diploma in Web Development
 
 ## 🧱 File Structure
 
-├── dashboard.php # Main dashboard interface ├── order.php # Order listing page ├── card.php # Card overview page ├── card-detail.php # (Optional) Detailed card view ├── db.php # Database connection ├── header.php # Shared header layout ├── footer.php # Shared footer layout ├── assets/ # CSS, JS, images └── README.md # Project documentation
+- dashboard.php # Main dashboard interface
+- order.php # Order listing page
+- carts.php # Carts overview page
+- db.php # Database connection
+- header.php # Shared header layout
+- footer.php # Shared footer layout
+- assets/ # CSS, JS, images
+- README.md # Project documentation
 
 
 ## 🧠 Credits & Vision
